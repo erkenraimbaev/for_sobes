@@ -1,0 +1,18 @@
+{
+  '__name__': '__main__',
+  '__doc__': None,
+  '__package__': None,
+  '__loader__': <_frozen_importlib_external.SourceFileLoader
+  object
+  at
+  0x0000020B49174B10>,
+  '__spec__': None,
+  '__annotations__': {},
+  '__builtins__': <module
+  'builtins'
+  (built-in)>,
+  '__file__': 'C:\\Users\\USER\\PycharmProjects\\dlya_sobesov\\main.py',
+  '__cached__': None,
+  'x': 5,
+  'y': 6
+}
